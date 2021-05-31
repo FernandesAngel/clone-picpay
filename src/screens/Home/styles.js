@@ -32,3 +32,4 @@ export const Balance = styled.Text`
     font-size: 20px;
     font-weight: bold;
 `;
+
